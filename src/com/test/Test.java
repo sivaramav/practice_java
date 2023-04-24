@@ -9,6 +9,7 @@ public class Test {
 		
 		
 		String str = "ABC";
+		
 	
 		
 		Test.print(str);
